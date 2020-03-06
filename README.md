@@ -1,0 +1,1 @@
+The following are various code challenges I have completed on Code Wars. Mostly in JavaScript a couple in Python.
